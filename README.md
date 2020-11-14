@@ -3,7 +3,8 @@
 * translation.ipyn : Projet NLP data science traduction de langue.   
   ** Modèles seq2seq à cellules LSTM avec ménanisme d'attention
   
-  <img src="images/attention_mechanism.jpg" width="500" height="500">
+  Architecture implémentée :
+  <img src="images/attention_mechanism.jpg" width="450" height="300">
 
 * ocr.ipyn : Reconnaissance optique de caractères  
   ** Utilisation de réseaux convolutifs(CNN) et de réseaux lstm  
