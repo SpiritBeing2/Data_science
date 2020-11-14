@@ -1,5 +1,8 @@
 # Data_science
 
+* translation.ipyn : Projet NLP data science traduction de langue.   
+  ** Modèles seq2seq à cellules LSTM avec ménanisme d'attention   
+
 * ocr.ipyn : Reconnaissance optique de caractères  
   ** Utilisation de réseaux convolutifs(CNN) et de réseaux lstm  
 
