@@ -3,7 +3,7 @@
 <h3> translation.ipyn </h3>
 
    Projet NLP data science traduction de langue.   
-      Modèles seq2seq à cellules LSTM avec ménanisme d'attention
+      Modèles seq2seq à cellules LSTM avec ménanisme d'attention.
   
 Architecture implémentée :
   
@@ -11,12 +11,12 @@ Architecture implémentée :
 
 <h3> ocr.ipyn </h3>
 
-   Reconnaissance optique de caractères  
-      Utilisation de réseaux convolutifs(CNN) et de réseaux lstm  
+   Reconnaissance optique de caractères.  
+      Utilisation de réseaux convolutifs(CNN) et de réseaux LSTM.  
   
-<img src="images/first.png"> <img src="images/second.png"> 
+<img src="images/first.png"> <img src="images/arrow.png" width="30" height="30"> 
 
-<img src="images/second.png"> :
+<img src="images/second.png"> <img src="images/arrow.png" width="30" height="30">
 
 
 * predict_price.ipyn : Prédiction d'une variable "prix" à partir de variables numériques et catégorielles  
