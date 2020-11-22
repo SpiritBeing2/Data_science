@@ -16,7 +16,8 @@ Architecture implémentée :
 <h3> ocr.ipyn </h3>
 
    Sujet : Computer vision, Reconnaissance optique de caractères.  
-   Librairies utilisées : keras, numpy, matplotlib  
+   Librairies utilisées : keras, numpy, matplotlib
+   
        Techniques utilisées : réseaux convolutifs(CNN) et réseaux LSTM.  
   
 <img src="images/first.png"> <img src="images/arrow2.png" width="30" height="30">  ffd6p
@@ -27,7 +28,8 @@ Architecture implémentée :
 <h3> predict_price.ipyn </h3>
 
    Sujet : Prédiction d'une variable "prix" à partir de variables numériques et catégorielles.  
-   Librairies utilisées : sklearn, pandas, keras, xgboost, matplotlib.    
+   Librairies utilisées : sklearn, pandas, keras, xgboost, matplotlib.
+   
       Techniques utilisées : Algorithmes de machine learning (regression linéaire, gradient boosting, etc...) et réseau de neurones simple.    
  
 <h3> text_M_2.ipyn </h3>
