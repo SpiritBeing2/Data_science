@@ -1,6 +1,6 @@
 # Data_science
 
-Repository contenant des projets data science utilisant techniques de machine learning et deep learning
+Le répertoire ci dessus contient des projets data science utilisant techniques de machine learning et deep learning
 
 <h3> translation.ipyn </h3>
 
@@ -26,11 +26,11 @@ Architecture implémentée :
 
 <h3> predict_price.ipyn </h3>
 
-   Sujet : Prédiction d'une variable "prix" à partir de variables numériques et catégorielles  
-   Librairies utilisées : sklearn, pandas, keras, xgboost matplotlib  
-      Techniques utilisées : Algorithmes de machine learning (regression linéaire, gradient boosting, etc...) et réseau de neurones simple  
+   Sujet : Prédiction d'une variable "prix" à partir de variables numériques et catégorielles.  
+   Librairies utilisées : sklearn, pandas, keras, xgboost, matplotlib.    
+      Techniques utilisées : Algorithmes de machine learning (regression linéaire, gradient boosting, etc...) et réseau de neurones simple.    
  
 <h3> text_M_2.ipyn </h3>
    
-   NLP -> Classification de texte en utilisant des réseaux réccurents (LSTM) 
+   NLP -> Classification de texte en utilisant des réseaux réccurents (LSTM).   
   
