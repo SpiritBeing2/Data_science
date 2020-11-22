@@ -1,6 +1,6 @@
 # Data_science
 
-Le répertoire ci dessus contient des projets data science utilisant techniques de machine learning et deep learning
+Le répertoire ci dessus contient des projets data science utilisant des techniques de machine learning et de deep learning
 
 <h3> translation.ipyn </h3>
 
