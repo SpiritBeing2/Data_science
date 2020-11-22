@@ -20,7 +20,7 @@ Architecture implémentée :
    
        Techniques utilisées : réseaux convolutifs(CNN) et réseaux LSTM.  
   
-<img src="images/fcs.PNG.png"> <img src="images/arrow2.png" width="30" height="30">
+<img src="images/fcs.PNG"> <img src="images/arrow2.png" width="30" height="30">
 
 <h3> predict_price.ipyn </h3>
 
