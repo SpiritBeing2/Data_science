@@ -4,8 +4,8 @@ Repository contenant des projets data science utilisant techniques de machine le
 
 <h3> translation.ipyn </h3>
 
-   Sujet : Projet NLP data science traduction de langue.
-   Librairies utilisées : tensorflow2, numpy
+   Sujet : Projet NLP data science traduction de langue.  
+   Librairies utilisées : tensorflow2, numpy  
    
       Techniques utilisées : Modèles seq2seq à cellules LSTM avec ménanisme d'attention.
   
@@ -15,8 +15,8 @@ Architecture implémentée :
 
 <h3> ocr.ipyn </h3>
 
-   Sujet : Computer vision, Reconnaissance optique de caractères.
-   Librairies utilisées : keras, numpy, matplotlib
+   Sujet : Computer vision, Reconnaissance optique de caractères.  
+   Librairies utilisées : keras, numpy, matplotlib  
        Techniques utilisées : réseaux convolutifs(CNN) et réseaux LSTM.  
   
 <img src="images/first.png"> <img src="images/arrow2.png" width="30" height="30">  ffd6p
@@ -26,9 +26,9 @@ Architecture implémentée :
 
 <h3> predict_price.ipyn </h3>
 
-   Sujet : Prédiction d'une variable "prix" à partir de variables numériques et catégorielles 
-   Librairies utilisées : 
-      Techniques utilisées : Algorithmes de machine learning (regression linéaire, gradient boosting) et réseau de neurones simple  
+   Sujet : Prédiction d'une variable "prix" à partir de variables numériques et catégorielles  
+   Librairies utilisées : sklearn, pandas, keras, xgboost matplotlib  
+      Techniques utilisées : Algorithmes de machine learning (regression linéaire, gradient boosting, etc...) et réseau de neurones simple  
  
 <h3> text_M_2.ipyn </h3>
    
