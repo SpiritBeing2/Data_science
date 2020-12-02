@@ -7,7 +7,7 @@ Le répertoire ci dessus contient des projets data science utilisant des techniq
    Sujet : Projet NLP data science traduction de langue.  
    Librairies utilisées : tensorflow2, numpy  
    
-      Techniques utilisées : Modèles seq2seq à cellules LSTM avec ménanisme d'attention.
+      Techniques utilisées : Modèles seq2seq à cellules LSTM avec mécanisme d'attention.
   
 Architecture implémentée :
   
@@ -20,10 +20,7 @@ Architecture implémentée :
    
        Techniques utilisées : réseaux convolutifs(CNN) et réseaux LSTM.  
   
-<img src="images/first.png"> <img src="images/arrow2.png" width="30" height="30">  ffd6p
-
-<img src="images/second.png"> <img src="images/arrow2.png" width="30" height="30"> yx2d4
-
+<img src="images/fcs.PNG">
 
 <h3> predict_price.ipyn </h3>
 
