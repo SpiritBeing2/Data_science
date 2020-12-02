@@ -2,6 +2,17 @@
 
 Le répertoire ci dessus contient des projets data science utilisant des techniques de machine learning et de deep learning
 
+<h3> yolo.ipyn </h3>
+
+   Sujet : Computer vision : localization d'objets dans image  
+   Librairies utilisées : tensorflow2  
+   
+      Techniques utilisées : algorithme yolo v2, transfert learning.
+  
+Exemple :
+  
+   <img src="images/aec.png" width="420" height="300">
+
 <h3> translation.ipyn </h3>
 
    Sujet : Projet NLP data science traduction de langue.  
