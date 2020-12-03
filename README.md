@@ -11,8 +11,7 @@ Le répertoire ci dessus contient des projets data science utilisant des techniq
   
 Exemples :
   
-   <img src="images/yolo1.png" width="420" height="300">
-   <img src="images/yolo2.png" width="420" height="300">
+  <img src="images/yolo1.png" width="420" height="300">  <img src="images/yolo2.png" width="420" height="300"> 
 
 <h3> translation.ipyn </h3>
 
