@@ -4,7 +4,7 @@ Le répertoire ci dessus contient des projets data science utilisant des techniq
 
 <h3> yolo.ipyn </h3>
 
-   Sujet : Computer vision : localisation d'objets dans image  
+   Sujet : Computer vision, localisation d'objets dans image  
    Librairies utilisées : tensorflow2, scikit-Learn, openCv, pillow
    
       Techniques utilisées : algorithme yolo v2, transfert learning, Kmeans.
