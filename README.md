@@ -7,7 +7,7 @@ Le répertoire ci dessus contient des projets data science utilisant des techniq
    Sujet : Computer vision, localisation d'objets dans image  
    Librairies utilisées : tensorflow2, scikit-Learn, openCv, pillow
    
-      Techniques utilisées : algorithme yolo v2, transfert learning, Kmeans.
+      Techniques utilisées : algorithme yolo v2 (algorimthe de localisation d'objets), transfert learning, Kmeans.
   
 Exemples de localisations:
   
@@ -42,5 +42,5 @@ Architecture implémentée :
  
 <h3> text_M_2.ipyn </h3>
    
-   NLP -> Classification de texte en utilisant des réseaux réccurents (LSTM).   
+   NLP -> Classification (catégorisation) de texte en utilisant des réseaux réccurents (LSTM).   
   
