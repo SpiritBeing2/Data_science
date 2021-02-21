@@ -15,14 +15,26 @@ Exemples de localisations:
 
 <h3> translation.ipyn </h3>
 
+   Sujet : Projet NLP data science traduction de langue en utilisant l'architecture "transformers".
+   Librairies utilisées : tensorflow2  
+   
+      Techniques utilisées : Modèles type transformers
+  
+Architecture implémentée :
+  
+   <img src="images/transformer_architecture.png">
+
+
+<h3> translation.ipyn </h3>
+
    Sujet : Projet NLP data science traduction de langue.  
    Librairies utilisées : tensorflow2, numpy  
    
       Techniques utilisées : Modèles seq2seq à cellules LSTM avec mécanisme d'attention.
   
 Architecture implémentée :
-  
-   <img src="images/attention_mechanism.jpg" width="420" height="300">
+
+<img src="images/attention_mechanism.jpg" width="420" height="300">
 
 <h3> ocr.ipyn </h3>
 
