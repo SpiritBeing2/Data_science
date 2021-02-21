@@ -13,7 +13,7 @@ Exemples de localisations:
   
   <img src="images/yolo1.png" width="420" height="300">  <img src="images/yolo2.png" width="420" height="300"> 
 
-<h3> translation.ipyn </h3>
+<h3> transformer.ipynb </h3>
 
    Sujet : Projet NLP data science traduction de langue en utilisant l'architecture "transformers".
    Librairies utilisées : tensorflow2  
